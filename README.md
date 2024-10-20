@@ -1,2 +1,2 @@
 # Next JS
-class Assignment 02
+Class Assignment 02
